@@ -1,2 +1,2 @@
 #!/bin/bash
-mktmp/my_first_directory
+mktmp -d -t my_first_directory
